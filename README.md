@@ -1,2 +1,2 @@
 # SkillFactory_course
- Учебные модули Data Science
+ Учебные проекты по модулям Data Science
