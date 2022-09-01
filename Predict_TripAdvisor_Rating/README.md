@@ -21,5 +21,3 @@
 2. EDA
 3. Preprocessing и Feature Engineering
 4. Построение модели и получение прогнозов
-
-
