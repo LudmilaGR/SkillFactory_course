@@ -21,4 +21,4 @@
 2. Изучение закономерностей в данных
 3. Предварительный анализ
 4. Выводы от каких малоприбыльных рейсов в зимнее время можно отказаться
-5. Подготовка презентации (доступна на  google-диске https://docs.google.com/presentation/d/1qhErfgD41icoJ2n46kujSacTnEgJUJM_oI0HXebkTfs/edit?usp=sharing)
+5. Подготовка презентации (доступна на  [google-диске](https://docs.google.com/presentation/d/1qhErfgD41icoJ2n46kujSacTnEgJUJM_oI0HXebkTfs/edit?usp=sharing))
